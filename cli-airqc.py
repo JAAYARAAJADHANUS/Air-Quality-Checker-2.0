@@ -1,3 +1,5 @@
+## RAW CODE RASPERRY PI
+
 import RPi.GPIO as GPIO
 import time
 
